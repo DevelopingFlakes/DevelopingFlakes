@@ -24,4 +24,4 @@
 -->
 
 <h3><code>💻</code> <b>|</b> Tools</h3>
-<a href="https://nertoxic.com"><img src="https://fimg.me/secure/file/P0Kezk9nmD1Xr"></a>
+<a href="https://nertoxic.com"><img src="https://fimg.me/secure/file/P0Kezk9nmD1Xr" width="50"></a>
