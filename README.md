@@ -24,4 +24,7 @@
 -->
 
 <h3><code>💻</code> <b>|</b> Tools</h3>
-<a href="https://nertoxic.com"><img src="https://fimg.me/secure/file/P0Kezk9nmD1Xr" width="50"></a>
+<a href="https://nertoxic.com" target="_blank"><img src="https://fimg.me/secure/file/P0Kezk9nmD1Xr" width="50"></a>
+<a href="https://php.net" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" width="50"></a>
+<a href="https://html5.com" target="_blank"><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50"></a>
+<a href="https://css3.com" target="_blank"><img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" width="50"></a>
