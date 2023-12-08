@@ -18,3 +18,10 @@
 <code>👨‍🏫</code> Currently learning: *Nothing sadly* <br>
 <code>👨‍🏭</code> Server Knowledge: Hardware, HP ILO, Proxmox, SolusVM, Hostware, WHMCS, Plesk, Ptrodactyl, Wisp <br>
 <code>🏢</code> I am working with: Clusternode, Hetzner, PBACS, OVH <br>
+
+<!-- 
+ Languages
+-->
+
+<h3><code>💻</code> <b>|</b> Tools</h3>
+<a href="https://nertoxic.com"><img src="https://fimg.me/secure/file/P0Kezk9nmD1Xr"></a>
