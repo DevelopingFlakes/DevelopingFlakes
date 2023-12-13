@@ -9,7 +9,9 @@
 <code>👨‍💻</code> Started working with PHP 7 years ago <br>
 <code>🥇</code> Hackerrank PHP (4.8 Stars)<br>
 <code>🥈</code> Hackerrank C++ (3.9 Stars) <br>
-<code>🥉</code> Hackerrank JAVA (2.6 Stars) <br>
+<code>🥉</code> Hackerrank SQL (4.3 Stars) <br>
+<code>🏅</code> Hackerrank JAVA (2.6 Stars) <br>
+<code>🏅</code> Hackerrank PROBLEMS SOLVING (2.0 Stars) <br>
 <code>🏅</code> Hackerrank PYTHON (2.0 Stars) <br>
 
 <!-- 
