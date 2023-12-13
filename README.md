@@ -7,12 +7,7 @@
 <code>👨‍🎓</code> I am 19 years old <br>
 <code>🇩🇪</code> I am from germany <br>
 <code>👨‍💻</code> Started working with PHP 7 years ago <br>
-<code>🥇</code> Hackerrank PHP (4.8 Stars)<br>
-<code>🥈</code> Hackerrank C++ (3.9 Stars) <br>
-<code>🥉</code> Hackerrank SQL (4.3 Stars) <br>
-<code>🏅</code> Hackerrank JAVA (2.6 Stars) <br>
-<code>🏅</code> Hackerrank PROBLEMS SOLVING (2.0 Stars) <br>
-<code>🏅</code> Hackerrank PYTHON (2.0 Stars) <br>
+<code>🥇</code> Hackerrank: SQL 5*, C++ 5*, SQL 5*, Problems Solving 5*,<br>
 
 <!-- 
  Languages
