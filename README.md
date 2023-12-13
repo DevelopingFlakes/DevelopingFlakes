@@ -10,7 +10,7 @@
 <code>🥇</code> Hackerrank PHP (4.8 Stars)<br>
 <code>🥈</code> Hackerrank C++ (3.9 Stars) <br>
 <code>🥉</code> Hackerrank JAVA (2.6 Stars) <br>
-<code>🥉</code> Hackerrank PYTHON (2.0 Stars) <br>
+<code>🏅</code> Hackerrank PYTHON (2.0 Stars) <br>
 
 <!-- 
  Languages
