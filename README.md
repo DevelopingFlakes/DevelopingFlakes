@@ -6,7 +6,7 @@
 
 <code>👨‍🎓</code> I am 19 years old <br>
 <code>🇩🇪</code> I am from germany <br>
-<code>👨‍💻</code> I programmer since 6 years <br>
+<code>👨‍💻</code> I am programmer since 8 years <br>
 
 <!-- 
  Languages
