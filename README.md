@@ -9,7 +9,7 @@
 <code>👨‍💻</code> Started working with PHP 7 years ago <br>
 <code>🥇</code> Hackerrank PHP one of the top 5% (4.8 Stars)<br>
 <code>🥈</code> Hackerrank C(++/#) one of the top 40% (3.9 Stars) <br>
-<code>🥈</code> Hackerrank JAVA one of the top 70% (2.6 Stars) <br>
+<code>🥉</code> Hackerrank JAVA one of the top 70% (2.6 Stars) <br>
 
 <!-- 
  Languages
