@@ -6,8 +6,8 @@
 
 <code>👨‍🎓</code> I am 19 years old <br>
 <code>🇩🇪</code> I am from germany <br>
-<code>👨‍💻</code> Started working with PHP 7 years ago <br>
-<code>🥇</code> Hackerrank: Overall 4.3 Stars<br>
+<code>👨‍💻</code> Started working with PHP at 2016<br>
+<code>🥇</code> Hackerrank: Overall 4.5 Stars<br>
 
 <!-- 
  Languages
