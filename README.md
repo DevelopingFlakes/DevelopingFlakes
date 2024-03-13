@@ -15,7 +15,18 @@
 
 <h3><code>🗣</code> <b>|</b> Knowledge</h3>
 
-<code>👨‍💻</code> Languages: PHP, Ruby, HTML, CSS, JS, CookieScript, Java, C(++/#), Phython <br>
+<code>👨‍💻</code> Languages: PHP, Ruby, HTML, CSS, JS, CookieScript, Java, C(++/#), Phython, (C)AL <br>
 <code>👨‍🏫</code> Currently learning: *Nothing sadly* <br>
-<code>👨‍🏭</code> Server Knowledge: Hardware, HP ILO, Proxmox, SolusVM, Hostware, WHMCS, Plesk, Ptrodactyl, Wisp <br>
-<code>🏢</code> I am working with: Clusternode, Hetzner, Codeigneter, OVH, Nertoxic, Github, Hackerrank, W3Schools
+<code>👨‍🏭</code> Server Knowledge: Hardware, HP ILO, Proxmox, SolusVM, Hostware, WHMCS, Plesk, Ptrodactyl, Wisp, Plesk, Typo3 <br>
+
+<!-- 
+ Working
+-->
+
+<h3><code>👨‍💻</code> <b>|</b> Where do i work</h3>
+<code>🏢</code> @PBACSnet CEO, Founder, Full Stack Developer
+<code>🌎</code> @ClusterNodeNet Owner, Founder, Full Stack Developer
+<code>📄</code> @PageAndPaper Trainee Developer
+
+
+
