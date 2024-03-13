@@ -15,7 +15,7 @@
 
 <h3><code>🗣</code> <b>|</b> Knowledge</h3>
 
-<code>👨‍💻</code> Languages: PHP, Ruby, HTML, CSS, JS, CookieScript, Java, C(++/#), Phython, (C)AL <br>
+<code>👨‍💻</code> Languages: PHP, Ruby, HTML, CSS, JS, CookieScript, Java, C(++/#), Phython, (C)AL, SQL <br>
 <code>👨‍🏫</code> Currently learning: *Nothing sadly* <br>
 <code>👨‍🏭</code> Server Knowledge: Hardware, HP ILO, Proxmox, SolusVM, Hostware, WHMCS, Plesk, Ptrodactyl, Wisp, Plesk, Typo3 <br>
 
