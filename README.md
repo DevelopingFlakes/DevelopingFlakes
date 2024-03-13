@@ -24,9 +24,13 @@
 -->
 
 <h3><code>👨‍💻</code> <b>|</b> Where do i work</h3>
-<code>🏢</code> @PBACSnet CEO, Founder, Full Stack Developer
-<code>🌎</code> @ClusterNodeNet Owner, Founder, Full Stack Developer
-<code>📄</code> @PageAndPaper Trainee Developer
+
+
+<code>🏢</code> https://pbacs.net CEO, Founder, Full Stack Developer <br>
+<code>🌎</code> https://clusternode.net Owner, Founder, Full Stack Developer <br>
+<code>📄</code> https://page-and-paper.de Trainee Developer <br>
+<code>👨‍💻</code> https://nertoxic.com Owner, Head Developer
+
 
 
 
