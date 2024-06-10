@@ -27,7 +27,6 @@
 
 
 <code>🏢</code> https://pbacs.net CEO, Founder, Full Stack Developer <br>
-<code>📄</code> https://page-and-paper.de Trainee Developer <br>
 
 
 
