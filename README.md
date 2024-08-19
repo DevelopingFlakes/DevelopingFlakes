@@ -28,7 +28,6 @@
 
 <code>🏢</code> https://pbacs.net Founder, Full Stack Developer <br>
 <code>🏢</code> https://cdnhero.net Founder, Full Stack Developer <br>
-<code>🏢</code> https://endpolab.de Founder, Full Stack Developer <br>
 
 
 
