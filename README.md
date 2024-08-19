@@ -26,7 +26,9 @@
 <h3><code>👨‍💻</code> <b>|</b> Where do i work</h3>
 
 
-<code>🏢</code> https://pbacs.net CEO, Founder, Full Stack Developer <br>
+<code>🏢</code> https://pbacs.net Founder, Full Stack Developer <br>
+<code>🏢</code> https://cdnhero.net Founder, Full Stack Developer <br>
+<code>🏢</code> https://endpolab.de Founder, Full Stack Developer <br>
 
 
 
