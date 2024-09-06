@@ -26,6 +26,8 @@
 
 <code>📂</code> <b>SQL:</b> Certified Basic, Intermediate and Adavanced knowledge <i>(100%)</i><br>
 <code>🎨</code> <b>CSS:</b> Certified Basic knowledge <i>(100%)</i><br>
+<code>🏃</code> <b>GO:</b> Certified Basic knowledge <i>(50%)</i><br>
+<code>🐍</code> <b>PYTHON:</b> Certified Basic knowledge <i>(100%)</i><br>
 <br><i>All certificates can be found within this repository at /cert/"type"/"difficulty"</i>
 
 
