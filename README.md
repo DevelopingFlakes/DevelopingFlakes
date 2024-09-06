@@ -23,6 +23,8 @@
 -->
 
 <h3><code>📃</code> <b>|</b> Proof of knowledge</h3>
+<code>👨‍💻</code> <a href="https://www.hackerrank.com/profile/DevelopingFlakes" target="_blank">Hackerrank Proofs</a>
+<br>
 
 <code>📂</code> <b>SQL:</b> Certified Basic, Intermediate and Adavanced knowledge <i>(100%)</i><br>
 <code>🎨</code> <b>CSS:</b> Certified Basic knowledge <i>(100%)</i><br>
