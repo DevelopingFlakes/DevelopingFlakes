@@ -30,7 +30,7 @@
 <code>🎨</code> <b>CSS:</b> Basic Knwoledge<br>
 <code>🏃</code> <b>GO:</b> Basic Knwoledge<br>
 <code>🐍</code> <b>PYTHON:</b> Basic Knwoledge<br>
-<code>🐘</code> <b>PHP:</b> Expert Knwoledge<br>
+<code>🐘</code> <b>PHP:</b> Advanced Knwoledge<br>
 <code>🍵</code> <b>Java:</b> Basic Knwoledge<br>
 
 
