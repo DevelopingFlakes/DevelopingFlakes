@@ -4,7 +4,7 @@
 
 <h3><code>👦</code> <b>|</b> About me</h3>
 
-<code>👨‍🎓</code> I am 19 years old <br>
+<code>👨‍🎓</code> I am 20 years old <br>
 <code>🇩🇪</code> I am from germany <br>
 <code>👨‍💻</code> Started working with PHP at 2016<br>
 
